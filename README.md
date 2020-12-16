@@ -24,8 +24,8 @@ type of movies would suit your taste the best. Further goals include a swingbase
 
 ## External Libraries:
 The project makes use of 2 external libraries:
-  * edu.duke.FileResource
-  * org.apache.commons.csv.*
+  * <a href="https://www.dukelearntoprogram.com/course2/doc/javadoc/edu/duke/FileResource.html"> edu.duke.FileResource </a>
+  * <a href="https://commons.apache.org/proper/commons-csv/"> org.apache.commons.csv </a>
 
 _The abovementioned library JARs can be found in the project folder,
 specifically at: MovieRecommender/external jars._
