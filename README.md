@@ -1,3 +1,6 @@
+[![GitHub issues](https://img.shields.io/github/issues/SABERGLOW/Movie_Recommender_Engine)](https://github.com/SABERGLOW/Movie_Recommender_Engine/issues) [![GitHub stars](https://img.shields.io/github/stars/SABERGLOW/Movie_Recommender_Engine)](https://github.com/SABERGLOW/Movie_Recommender_Engine/stargazers) [![GitHub license](https://img.shields.io/github/license/SABERGLOW/Movie_Recommender_Engine)](https://github.com/SABERGLOW/Movie_Recommender_Engine/blob/master/LICENSE)
+
+
 # Movie Recommender Engine
 Movie Recommdner is a a DIY recommender engine for finding movie recommendations and information about current movies. 
 
